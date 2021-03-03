@@ -4,9 +4,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 # Steps to clone and run the project in local PC
 1. git clone https://github.com/Sagnik004/ecomm-app.git (OR) download the project folder from GitHub and unzip it
 2. From command line:
-  > cd ecomm-app
-  > npm install
-  > npm start 
+  2.1 cd ecomm-app
+  2.2 npm install
+  2.3 npm start 
 3. Starts the app in development mode
 4. Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 5. The page will reload if edits are made.
